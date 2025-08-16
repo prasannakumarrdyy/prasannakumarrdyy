@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm M.Prasanna Kumar Reddy</h1>
-<h3 align="center">Hari | AIML Engineer Java | Python | Leadership | Problem Solving</h3>
+<h3 align="center"> AIML Engineer Java | Python | Leadership | Problem Solving</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasannakumarrdyy&label=Profile%20views&color=0e75b6&style=flat" alt="prasannakumarrdyy" /> </p>
 
